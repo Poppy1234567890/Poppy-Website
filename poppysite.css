@@ -13,6 +13,7 @@ body {
 
 .titleBox {
     margin: auto;
+    padding: 5px;
     width: 25%;
     text-align: center;
     border: 1px black solid;
@@ -42,4 +43,31 @@ body {
 
 .worm {
     color: #808088;
+}
+
+.linksContainer {
+    margin: auto;
+    width: 50%;
+    padding: 5px;
+    text-align: center;
+    border: 1px black solid;
+    background-color: aliceblue;
+}
+
+.calculator {
+    margin: auto;
+    width: 20%;
+    padding: 5px;
+    text-align: center;
+    border: 1px black solid;
+    background-color: aliceblue;
+}
+
+.calculatorButtons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.enter {
+    grid-column: 4 / 5;
+    grid-row: 2 / span 4;
 }
