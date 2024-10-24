@@ -14,4 +14,4 @@ http://poppyackrell.co.uk/
 
 19/10/2024: Redesigning the entirety of the front page, WIP version uploaded on this date. Made the calculator page with a calcutor design on it.
 
-21/10/2024: Calculator can take numbers in the calculation.
+21/10/2024: Calculator can take numbers and operators in the calculation (cannot calculate the result yet).
