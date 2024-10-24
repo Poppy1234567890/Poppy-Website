@@ -5,8 +5,7 @@ Link:
 http://poppyackrell.co.uk/
 
 (index.html IS IN THE PROCESS OF BEING CHANGED AND THE FILE IS UPLOADED IS A WIP CHANGE, DOES NOT MATCH THE VERSION ON THE WEBSITE)
-<br>
-<br>
+
 **UPDATE LOG:**
 
 12/10/2024: First version of files.
