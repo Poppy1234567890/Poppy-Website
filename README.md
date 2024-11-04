@@ -16,4 +16,4 @@ http://poppyackrell.co.uk/
 
 21/10/2024: Calculator can take numbers and operators in the calculation (cannot calculate the result yet).
 
-04/11/2024: Front page redesign, moved info boxes to websites accessed at the top of the front page.
+04/11/2024: Front page redesign, moved info boxes to websites accessed at the top of the front page. Changed the multiplication symbol and divide symbol on the calculator to * and / respectively.
