@@ -15,3 +15,5 @@ http://poppyackrell.co.uk/
 19/10/2024: Redesigning the entirety of the front page, WIP version uploaded on this date. Made the calculator page with a calcutor design on it.
 
 21/10/2024: Calculator can take numbers and operators in the calculation (cannot calculate the result yet).
+
+04/11/2024: Front page redesign, moved info boxes to websites accessed at the top of the front page.
