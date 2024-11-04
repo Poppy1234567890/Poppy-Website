@@ -19,7 +19,7 @@ function subtractFunc() {
     if (totalValue == "") {
         totalValue = "";
     } else {
-        totalValue = totalValue + "-";
+        totalValue = totalValue + "- ";
     document.getElementById("output").innerHTML = totalValue;
     }
 }
@@ -28,7 +28,7 @@ function additionFunc() {
     if (totalValue == "") {
         totalValue = "";
     } else {
-        totalValue = totalValue + "+";
+        totalValue = totalValue + "+ ";
     document.getElementById("output").innerHTML = totalValue;
     }
 }
@@ -37,7 +37,7 @@ function multiplyFunc() {
     if (totalValue == "") {
         totalValue = "";
     } else {
-        totalValue = totalValue + "×";
+        totalValue = totalValue + "* ";
     document.getElementById("output").innerHTML = totalValue;
     }
 }
@@ -46,58 +46,57 @@ function divisionFunc() {
     if (totalValue == "") {
         totalValue = "";
     } else {
-        totalValue = totalValue + "÷";
+        totalValue = totalValue + "/ ";
     document.getElementById("output").innerHTML = totalValue;
     }
 }
 
 function sevenFunc() {
-    totalValue = totalValue + "7";
+    totalValue = totalValue + "7 ";
     document.getElementById("output").innerHTML = totalValue;
 }
 
 function eightFunc() {
-    totalValue = totalValue + "8";
+    totalValue = totalValue + "8 ";
     document.getElementById("output").innerHTML = totalValue;
 }
 
 function nineFunc() {
-    totalValue = totalValue + "9";
+    totalValue = totalValue + "9 ";
     document.getElementById("output").innerHTML = totalValue;
 }
 
 function fourFunc() {
-    totalValue = totalValue + "4";
+    totalValue = totalValue + "4 ";
     document.getElementById("output").innerHTML = totalValue;
 }
 
 function fiveFunc() {
-    totalValue = totalValue + "5";
+    totalValue = totalValue + "5 ";
     document.getElementById("output").innerHTML = totalValue;
 }
 
 function sixFunc() {
-    totalValue = totalValue + "6";
+    totalValue = totalValue + "6 ";
     document.getElementById("output").innerHTML = totalValue;
 }
 
 function oneFunc() {
-    totalValue = totalValue + "1";
+    totalValue = totalValue + "1 ";
     document.getElementById("output").innerHTML = totalValue;
 }
 
 function twoFunc() {
-    totalValue = totalValue + "2";
+    totalValue = totalValue + "2 ";
     document.getElementById("output").innerHTML = totalValue;
 }
 
 function threeFunc() {
-    totalValue = totalValue + "3";
+    totalValue = totalValue + "3 ";
     document.getElementById("output").innerHTML = totalValue;
 }
 
 function zeroFunc() {
-    totalValue = totalValue + "0";
+    totalValue = totalValue + "0 ";
     document.getElementById("output").innerHTML = totalValue;
 }
-
